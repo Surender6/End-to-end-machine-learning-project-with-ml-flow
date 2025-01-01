@@ -112,3 +112,11 @@ Source-Age: 39
 
 ] 
 [2024-12-31 23:05:03,463: INFO: main: >>>>>>> stage data ingestion stage completed successfully <<<<<<<<\nx=======] 
+[2025-01-01 12:38:33,179: INFO: common: yaml file: config\config.yaml loaded successfully] 
+[2025-01-01 12:38:33,186: INFO: common: yaml file: params.yaml loaded successfully] 
+[2025-01-01 12:38:33,201: INFO: common: yaml file: schema.yaml loaded successfully] 
+[2025-01-01 12:38:33,203: INFO: common: created directory at: artifacts] 
+[2025-01-01 12:43:28,473: INFO: common: yaml file: config\config.yaml loaded successfully] 
+[2025-01-01 12:43:28,475: INFO: common: yaml file: params.yaml loaded successfully] 
+[2025-01-01 12:43:28,479: INFO: common: yaml file: schema.yaml loaded successfully] 
+[2025-01-01 12:43:28,481: INFO: common: created directory at: artifacts] 
