@@ -120,3 +120,87 @@ Source-Age: 39
 [2025-01-01 12:43:28,475: INFO: common: yaml file: params.yaml loaded successfully] 
 [2025-01-01 12:43:28,479: INFO: common: yaml file: schema.yaml loaded successfully] 
 [2025-01-01 12:43:28,481: INFO: common: created directory at: artifacts] 
+[2025-01-01 12:44:05,274: INFO: common: yaml file: config\config.yaml loaded successfully] 
+[2025-01-01 12:44:05,276: INFO: common: yaml file: params.yaml loaded successfully] 
+[2025-01-01 12:44:05,279: INFO: common: yaml file: schema.yaml loaded successfully] 
+[2025-01-01 12:44:05,281: INFO: common: created directory at: artifacts] 
+[2025-01-01 16:50:59,855: INFO: common: yaml file: config\config.yaml loaded successfully] 
+[2025-01-01 16:50:59,861: INFO: common: yaml file: params.yaml loaded successfully] 
+[2025-01-01 16:50:59,864: INFO: common: yaml file: schema.yaml loaded successfully] 
+[2025-01-01 16:50:59,866: INFO: common: created directory at: artifacts] 
+[2025-01-01 16:52:01,265: INFO: common: yaml file: config\config.yaml loaded successfully] 
+[2025-01-01 16:52:01,268: INFO: common: yaml file: params.yaml loaded successfully] 
+[2025-01-01 16:52:01,273: INFO: common: yaml file: schema.yaml loaded successfully] 
+[2025-01-01 16:52:01,275: INFO: common: created directory at: artifacts] 
+[2025-01-01 16:52:01,276: INFO: common: created directory at: artifacts/data_ingestion] 
+[2025-01-01 16:52:01,277: INFO: 2028186695: File already exists of size:~ 23 KB] 
+[2025-01-01 16:57:39,685: INFO: common: yaml file: config\config.yaml loaded successfully] 
+[2025-01-01 16:57:39,688: INFO: common: yaml file: params.yaml loaded successfully] 
+[2025-01-01 16:57:39,693: INFO: common: yaml file: schema.yaml loaded successfully] 
+[2025-01-01 16:57:39,694: INFO: common: created directory at: artifacts] 
+[2025-01-01 16:59:11,163: INFO: common: yaml file: config\config.yaml loaded successfully] 
+[2025-01-01 16:59:11,165: INFO: common: yaml file: params.yaml loaded successfully] 
+[2025-01-01 16:59:11,169: INFO: common: yaml file: schema.yaml loaded successfully] 
+[2025-01-01 16:59:11,171: INFO: common: created directory at: artifacts] 
+[2025-01-01 17:00:08,106: INFO: common: yaml file: config\config.yaml loaded successfully] 
+[2025-01-01 17:00:08,108: INFO: common: yaml file: params.yaml loaded successfully] 
+[2025-01-01 17:00:08,112: INFO: common: yaml file: schema.yaml loaded successfully] 
+[2025-01-01 17:00:08,114: INFO: common: created directory at: artifacts] 
+[2025-01-01 17:03:35,277: INFO: common: yaml file: config\config.yaml loaded successfully] 
+[2025-01-01 17:03:35,279: INFO: common: yaml file: params.yaml loaded successfully] 
+[2025-01-01 17:03:35,292: INFO: common: yaml file: schema.yaml loaded successfully] 
+[2025-01-01 17:03:35,294: INFO: common: created directory at: artifacts] 
+[2025-01-01 17:16:03,152: INFO: common: yaml file: config\config.yaml loaded successfully] 
+[2025-01-01 17:16:03,154: INFO: common: yaml file: params.yaml loaded successfully] 
+[2025-01-01 17:16:03,158: INFO: common: yaml file: schema.yaml loaded successfully] 
+[2025-01-01 17:16:03,159: INFO: common: created directory at: artifacts] 
+[2025-01-03 17:52:51,920: INFO: common: yaml file: config\config.yaml loaded successfully] 
+[2025-01-03 17:52:51,932: INFO: common: yaml file: params.yaml loaded successfully] 
+[2025-01-03 17:52:51,943: INFO: common: yaml file: schema.yaml loaded successfully] 
+[2025-01-03 17:52:51,944: INFO: common: created directory at: artifacts] 
+[2025-01-03 17:58:08,099: INFO: common: yaml file: config\config.yaml loaded successfully] 
+[2025-01-03 17:58:08,103: INFO: common: yaml file: params.yaml loaded successfully] 
+[2025-01-03 17:58:08,108: INFO: common: yaml file: schema.yaml loaded successfully] 
+[2025-01-03 17:58:08,110: INFO: common: created directory at: artifacts] 
+[2025-01-03 17:58:08,111: INFO: common: created directory at: artifacts/data_validation] 
+[2025-01-03 18:30:42,998: INFO: main: >>>>>>> stage data ingestion stage started] 
+[2025-01-03 18:30:43,000: INFO: common: yaml file: config\config.yaml loaded successfully] 
+[2025-01-03 18:30:43,001: INFO: common: yaml file: params.yaml loaded successfully] 
+[2025-01-03 18:30:43,004: INFO: common: yaml file: schema.yaml loaded successfully] 
+[2025-01-03 18:30:43,006: INFO: common: created directory at: artifacts] 
+[2025-01-03 18:30:43,007: INFO: common: created directory at: artifacts/data_ingestion] 
+[2025-01-03 18:30:44,245: INFO: data_ingestion: artifacts/data_ingestion/data.zip downloadd with following info: 
+Connection: close
+Content-Length: 23329
+Cache-Control: max-age=300
+Content-Security-Policy: default-src 'none'; style-src 'unsafe-inline'; sandbox
+Content-Type: application/zip
+ETag: "c69888a4ae59bc5a893392785a938ccd4937981c06ba8a9d6a21aa52b4ab5b6e"
+Strict-Transport-Security: max-age=31536000
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-XSS-Protection: 1; mode=block
+X-GitHub-Request-Id: 482E:D2F73:899E43:C96056:6777DF73
+Accept-Ranges: bytes
+Date: Fri, 03 Jan 2025 13:00:45 GMT
+Via: 1.1 varnish
+X-Served-By: cache-hyd1100021-HYD
+X-Cache: MISS
+X-Cache-Hits: 0
+X-Timer: S1735909245.413034,VS0,VE261
+Vary: Authorization,Accept-Encoding,Origin
+Access-Control-Allow-Origin: *
+Cross-Origin-Resource-Policy: cross-origin
+X-Fastly-Request-ID: e4f340c955b29e5a1f30ee43945909b75612d0c3
+Expires: Fri, 03 Jan 2025 13:05:45 GMT
+Source-Age: 0
+
+] 
+[2025-01-03 18:30:44,291: INFO: main: >>>>>>> stage data ingestion stage completed successfully <<<<<<<<\nx=======] 
+[2025-01-03 18:30:44,292: INFO: main: >>>>>>> stage data validation stage started] 
+[2025-01-03 18:30:44,295: INFO: common: yaml file: config\config.yaml loaded successfully] 
+[2025-01-03 18:30:44,296: INFO: common: yaml file: params.yaml loaded successfully] 
+[2025-01-03 18:30:44,301: INFO: common: yaml file: schema.yaml loaded successfully] 
+[2025-01-03 18:30:44,302: INFO: common: created directory at: artifacts] 
+[2025-01-03 18:30:44,303: INFO: common: created directory at: artifacts/data_validation] 
+[2025-01-03 18:30:44,333: INFO: main: >>>>>>> stage data validation stage completed successfully <<<<<<<<\nx=======] 
